@@ -65,17 +65,17 @@
 			<text id="alert_fancyinfo_title" name="&quot;Изюминки&quot;!"  />
 			<text id="alert_giftboxfull_copy" name="Ваш ящик с подарками полон. Вы не можете принимать новые подарки от друзей."  />
 			<text id="alert_giftboxfull_title" name="Места не осталось!"  />
-			<text id="alert_guestchangepassword_copy" name="Вы можете изменить пароль только зарегистрировавшись!"  />
+			<text id="alert_guestchangepassword_copy" name="Вы можете изменить пароль только после регистрации!"  />
 			<text id="alert_guestchangepassword_title" name="Сперва регистрация"  />
 			<text id="alert_guestcoop_copy" name="Вам нужно зарегистрироваться, прежде чем готовить банкеты!"  />
-			<text id="alert_guestinvitefriend_copy" name="Вы можете приглашать друзей только зарегистрировавшись."  />
+			<text id="alert_guestinvitefriend_copy" name="Вы можете приглашать друзей только после регистрации."  />
 			<text id="alert_guestinvitefriend_title" name="Сперва регистрация"  />
 			<text id="alert_guestlogout_copy" name="Зарегистрируйтесь для сохранения игры!"  />
 			<text id="alert_guestlogout_title" name="Регистрация"  />
 			<text id="alert_help_copy" name="Для начала - помоги себе сам..."  />
 			<text id="alert_help_title" name="Помощь"  />
-			<text id="alert_invitefriend_confirmed_copy" name="Ваше приглашение отослано {0}!"  />
-			<text id="alert_invitefriend_confirmed_title" name="Приглашение выслано!"  />
+			<text id="alert_invitefriend_confirmed_copy" name="Ваше приглашение отправлено {0}!"  />
+			<text id="alert_invitefriend_confirmed_title" name="Приглашение отправлено!"  />
 			<text id="alert_invitefriend_copy" name="Чтобы пригласить друга, введите его имя и e-mail."  />
 			<text id="alert_invitefriend_mail" name="E-mail вашего друга:"  />
 			<text id="alert_invitefriend_myname" name="Ваше имя:"  />
@@ -118,9 +118,9 @@
 			<text id="alert_register_title" name="Ошибка регистрации"  />
 			<text id="alert_seekingjob_copy" name="Вы должны зарегистрироваться, прежде чем работать по найму."  />
 			<text id="alert_seekingjob_title" name="Регистрация"  />
-			<text id="alert_selldeco_copy" name="Вы действительно хотите продать это по {0}?"  />
+			<text id="alert_selldeco_copy" name="Вы действительно хотите продать это за {0}?"  />
 			<text id="alert_selldeco_title" name="Продать?"  />
-			<text id="alert_sellitem_copy" name="Вы действительно хотите продать это по {0}?"  />
+			<text id="alert_sellitem_copy" name="Вы действительно хотите продать это за {0}?"  />
 			<text id="alert_sellitem_title" name="Продать?"  />
 			<text id="alert_smoothiemaker_full_copy" name="В вашем Фрости ещё остаются напитки!
 Почему бы вам не подать их гостям, и тогда уже смешать что-нибудь ещё?"  />
@@ -136,7 +136,7 @@
 			<text id="alert_stove_outofreach_copy" name="Вы не можете пройти к плите. Попробуйте что-нибудь переставить."  />
 			<text id="alert_stove_outofreach_title" name="Внимание!"  />
 			<text id="alert_unlockitem_copy" name="Закажите доставку продуктов городским курьером. Эксклюзивность стоит денег, никуда не денешься."  />
-			<text id="alert_unlockitem_title" name="Доставить с курьером?"  />
+			<text id="alert_unlockitem_title" name="Доставить курьером?"  />
 			<text id="alert_userkicked_copy" name="Вас выгнали из кафе."  />
 			<text id="alert_userkicked_title" name="Вышвырнули!"  />
 			<text id="alert_workinghero_copy" name="Повару ещё нужно поработать!"  />
@@ -202,7 +202,7 @@
 			<text id="cookstep_cookieplate1" name="Выдавливаются фигурки"  />
 			<text id="cookstep_cookieplate2" name="Печенье доходит"  />
 			<text id="cookstep_cornonthecob1" name="Готовится кукуруза"  />
-			<text id="cookstep_cornonthecob2" name="Укладывается салат"  />
+			<text id="cookstep_cornonthecob2" name="Собирается салат"  />
 			<text id="cookstep_curry1" name="Обжаривается"  />
 			<text id="cookstep_curry2" name="Добавляется кокос"  />
 			<text id="cookstep_duckalorange1" name="Утка фаршируется"  />
@@ -325,9 +325,9 @@
 			<text id="coop_desc_long_10" name="Ваша семья собирается на Рождество и вас выбрали на семейном совете, чтобы вы приготовили праздничный ужин. Не подведите!"  />
 			<text id="coop_desc_long_11" name="Грядёт битва тортами и нам их потребуется ох как много! Напеките, пожалуйста, боеприпасов, сколько сможете..."  />
 			<text id="coop_desc_long_12" name="Городской службе бесплатных обедов срочно требуется несколько котлов супа. Вы можете приготовить что-то, что придётся по вкусу каждому?"  />
-			<text id="coop_desc_long_13" name="Для нашей вечеринки в азиатском стиле требуется несколько характерных блюд. Есть у вас что-нибудь этакое в рецептах?"  />
-			<text id="coop_desc_long_14" name="Национальная конференция строителей стартует уже завтра, и нам нужно накрыть по-настоящему питательный стол. Никаких там салатиков, понятно?"  />
-			<text id="coop_desc_long_15" name="К нам приезжают гости из Лондона, а они употребляют только блюда своей родной кухни. Можете что-нибудь изобразить?"  />
+			<text id="coop_desc_long_13" name="Для нашей вечеринки в азиатском стиле требуется несколько традиционных блюд. Есть у вас что-нибудь этакое в рецептах?"  />
+			<text id="coop_desc_long_14" name="Национальная конференция строителей стартует уже завтра, и нам нужно накрыть по-настоящему сытный стол. Никаких там салатиков, понятно?"  />
+			<text id="coop_desc_long_15" name="К нам приезжают гости из Лондона, а они едят только блюда своей родной кухни. Можете что-нибудь изобразить?"  />
 			<text id="coop_desc_long_2" name="Я планирую вечеринку в мексиканском стиле и, само собой, мне нужна соответствующая еда. Что-нибудь простое, но сытное. Вы возьмётесь?"  />
 			<text id="coop_desc_long_3" name="Меня навестит спортивный клуб из Гамбурга и я очень хочу, чтобы ребята чувствовали себя как дома. Мне нужен кто-то, кто умеет готовить по-гамбургски. Что скажешь?"  />
 			<text id="coop_desc_long_4" name="Я устраиваю большую вечеринку на свежем воздухе, так что мне понадобится много еды. Я слышал, вы мастер в таких делах. Не хотите мне помочь?"  />
@@ -341,14 +341,14 @@
 			<text id="coop_desc_short_11" name="Бери больше, кидай дальше!"  />
 			<text id="coop_desc_short_12" name="Ничто так не радует желудок, как ароматный суп!"  />
 			<text id="coop_desc_short_13" name="Всегда можно добавить ещё щепоточку риса!"  />
-			<text id="coop_desc_short_14" name="Основательная еда для солидных людей"  />
+			<text id="coop_desc_short_14" name="Основательный обед для солидных людей"  />
 			<text id="coop_desc_short_15" name="Всё необходимое для подданного Её Величества!"  />
 			<text id="coop_desc_short_2" name="Мексиканская Фиеста в лучшем виде!"  />
 			<text id="coop_desc_short_3" name="Рагу по-флотски моим дорогим друзьям из Гамбурга!"  />
 			<text id="coop_desc_short_4" name="На природе всегда аппетит лучше!"  />
 			<text id="coop_desc_short_5" name="Поднимитесь на новые высоты кулинарии!"  />
 			<text id="coop_desc_short_6" name="Повышение гарантировано!"  />
-			<text id="coop_desc_short_7" name="Никуда не годится - на голодный желудок учится!"  />
+			<text id="coop_desc_short_7" name="Никуда не годится - на голодный желудок учиться!"  />
 			<text id="coop_desc_short_8" name="Этот юбилей он запомнит надолго!"  />
 			<text id="coop_desc_short_9" name="Pizza! Pasta! Basta!"  />
 			<text id="coop_title_1" name="Учимся готовить"  />
@@ -368,9 +368,9 @@
 			<text id="coop_title_9" name="Отдых по-итальянски"  />
 		</coopmission>
 		<dialogs>
-			<text id="dialogwin_achievement_title" name="Достижения"  />
+			<text id="dialogwin_achievement_title" name="Ваши достижения"  />
 			<text id="dialogwin_avatarcreate_man"  />
-			<text id="dialogwin_avatarcreate_random" name="Изменить внешность"  />
+			<text id="dialogwin_avatarcreate_random" name="Изменить внешность персонажа"  />
 			<text id="dialogwin_avatarcreate_txt_avatar_name" name="Имя:"  />
 			<text id="dialogwin_avatarcreate_txt_avatar_title" name="Создание персонажа"  />
 			<text id="dialogwin_avatarcreate_woman"  />
@@ -421,9 +421,7 @@
 			<text id="dialogwin_coopreward_title_fail" name="Банкет провалился!"  />
 			<text id="dialogwin_coopreward_title_success" name="Банкет удался на {0}"  />
 			<text id="dialogwin_coopshelp_copy" name="Банкеты - это специальные кулинарные миссии, которые можно выполнять вместе с друзьями, зарабатывая дополнительный опыт и кафейнинги. Чем быстрее вы выполните задание, тем выше будет ваша награда.
-
 Если вы чувствуете, что не успеваете, то можете отсрочить банкет на некоторое время.
-
 Но помните, вы сможете получить награду, только если внесёте свою лепту в общий стол!"  />
 			<text id="dialogwin_coopshelp_title" name="Что такое &quot;банкет&quot;?"  />
 			<text id="dialogwin_coop_btn_action" name="Подробности"  />
@@ -533,7 +531,6 @@
 			<text id="dialogwin_levelup_copy_2" name="Доступно для вас:"  />
 			<text id="dialogwin_levelup_title" name="Новый уровень"  />
 			<text id="dialogwin_lonelyingredient_copy" name="Ваш официант нашёл ящик с таинственной добавкой!
-
 Поделитесь с друзьями!"  />
 			<text id="dialogwin_lonelyingredient_title" name="Сюрприз!"  />
 			<text id="dialogwin_lonelytip_copy" name="Один из гостей оставил вам огромные чаевые! Поделитесь с друзьями!"  />
@@ -594,7 +591,6 @@
 			<text id="dialogwin_shippingconfirmation_copy2" name="Ещё не получили письмо? Это может занять пару минут. Если через некоторое время вы не найдёте его среди спама, наша поддержка будет рада вам помочь."  />
 			<text id="dialogwin_shippingconfirmation_title" name="Золотое письмо в пути!"  />
 			<text id="dialogwin_smoothiemakerhelp_copy" name="Здесь можно смешивать напитки и подавать их клиентам. Выберите напиток и нажмите &quot;Смешать&quot;.
-
 Просто нажмите на &quot;жаждущего&quot; клиента, перед тем как он присядет, чтобы подать напиток. У такого гостя особая иконка над головой."  />
 			<text id="dialogwin_smoothiemakerhelp_title" name="Как мне продавать напитки?"  />
 			<text id="dialogwin_smoothiemaker_allserved_copy" name="У вас не осталось порций!
@@ -627,7 +623,7 @@
 			<text id="dialogwin_wheeloffortune_copy1" name="Вы сегодня уже крутили Колесо Фортуны?"  />
 			<text id="dialogwin_wheeloffortune_header" name="КОЛЕСО ФОРТУНЫ!"  />
 			<text id="dialogwin_wheeloffortune_info" name="Первый поворот бесплатно!"  />
-			<text id="dialogwin_wheeloffortune_info1" name="За каждый следующий - 1 золотой!"  />
+			<text id="dialogwin_wheeloffortune_info1" name="За каждый следующий - 1 золото!"  />
 			<text id="dialogwin_wheeloffortune_nomoney" name="У вас недостаточно золота, чтобы крутить Колесо Фортуны!"  />
 			<text id="dialogwin_wheeloffortune_noregister" name="Только зарегистрированный игрок может вращать Колесо Фортуны!"  />
 			<text id="dialogwin_wheeloffortune_nospace" name="У вас нет места для призов! Освободите место в коробке с подарками и приходите крутить Колесо Фортуны!"  />
@@ -667,12 +663,11 @@
 			<text id="createavatar_errorcode_15" name="У этого игрока уже есть персонаж."  />
 			<text id="createavatar_errorcode_18" name="Имя недействительно."  />
 			<text id="createavatar_error_invalide" name="Ваше имя не должно быть пустым или содержать спецсимволы."  />
-			<text id="createavatar_error_nogender" name="Пожалуйста, выберите персонаж"  />
+			<text id="createavatar_error_nogender" name="Пожалуйста, выберите персонажа"  />
 			<text id="editbuy_errorcode_1" name="Внимание!"  />
 			<text id="editbuy_errorcode_3" name="Вы ещё не достигли необходимого уровня."  />
 			<text id="editbuy_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;."  />
-			<text id="editbuy_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место."  />
-			<text id="editextend_errorcode_1" name="Внимание!"  />
+			<text id="editbuy_errorcode_39" name="Это сюда не подходит. Перетащите объект на другое доступное место."  /><text id="editextend_errorcode_1" name="Внимание!"  />
 			<text id="editextend_errorcode_38" name="Вы можете изменить своё кафе только с помощью вкладки &quot;Обстановка&quot;."  />
 			<text id="editextend_errorcode_53" name="У вас уже есть это расширение"  />
 			<text id="editextend_errorcode_54" name="Вы пока не можете купить это расширение."  />
@@ -783,10 +778,10 @@
 			<text id="featureDialog_23_text_0" name="Требуются мастера на новые банкеты! Давайте готовить вместе!"  />
 			<text id="featureDialog_24_text_0" name="Пасхальный кролик что-то оставил в вашем кафе!
 Найдите предметы нового пасхального интерьера!"  />
-			<text id="featureDialog_24_text_1" name="Никогда ещё с одной птицы не получали столько дохода! Откройте для себя утку а ля Ораж!"  />
+			<text id="featureDialog_24_text_1" name="Никогда ещё с одной птицы не получали столько дохода! Откройте для себя утку а-ля Ораж!"  />
 			<text id="featureDialog_25_text_0" name="Вы удачливы? Испытайте свою фортуну у Дядюшки Маффина!"  />
 			<text id="featureDialog_26_text_0" name="Чувствуете дыхание удачи? Крутаните Колесо Фортуны на рынке!"  />
-			<text id="featureDialog_27_text_0" name="Подхлестните интерес к вашему кафе новым аппаратом для сахарной ваты! Доступно только на Колесе Фортуны!"  />
+			<text id="featureDialog_27_text_0" name="Подстегните интерес к вашему кафе новым аппаратом для сахарной ваты! Доступно только на Колесе Фортуны!"  />
 			<text id="featureDialog_28_text_0" name="Сегодня ваш последний шанс выиграть машину для сахарной ваты, используйте его!"  />
 			<text id="featureDialog_29_text_0" name="Теперь вы можете менять внешность персонажа когда захотите!"  />
 			<text id="featureDialog_2_text_0" name="Встречайтесь и общайтесь с другими игроками!"  />
@@ -916,7 +911,7 @@
 			<text id="ingredient_rice" name="Рис"  />
 			<text id="ingredient_rosemary" name="Розмарин"  />
 			<text id="ingredient_sausages" name="Сосиски"  />
-			<text id="ingredient_spicemix" name="Смесь пряностей"  />
+			<text id="ingredient_spicemix" name="Смесь специй"  />
 			<text id="ingredient_strawberry" name="Клубника"  />
 			<text id="ingredient_sugar" name="Сахар"  />
 			<text id="ingredient_sweetcorn" name="Кукуруза"  />
@@ -937,7 +932,7 @@
 			<text id="panelwin_deco_objectcount_fridge" name="Вы должны достичь {0} уровня, чтобы купить дополнительный холодильник. Или вы можете перетащить сюда старый и заменить его."  />
 			<text id="panelwin_deco_objectcount_nomore_counter" name="Вы пока не можете увеличивать количество стоек!"  />
 			<text id="panelwin_deco_objectcount_nomore_fridge" name="Вы пока не можете увеличивать количество холодильников!"  />
-			<text id="panelwin_deco_objectcount_nomore_stove" name="Вы пока не можете увеличивать количество конфорок!"  />
+			<text id="panelwin_deco_objectcount_nomore_stove" name="Вы пока не можете увеличивать количество плит!"  />
 			<text id="panelwin_deco_objectcount_stove" name="Вы должны достичь {0} уровня, чтобы купить дополнительную плиту. Или вы можете перетащить сюда старую и заменить её."  />
 			<text id="panelwin_login_email" name="Имя или E-mail"  />
 			<text id="panelwin_login_login" name="Войти"  />
@@ -990,23 +985,23 @@
 			<text id="preparestep_chickenburger_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_chickensalad_chicken" name="Подготовить курицу"  />
 			<text id="preparestep_chickensalad_lettuce" name="Помыть салат"  />
-			<text id="preparestep_chickensalad_onion" name="Порезать лук"  />
+			<text id="preparestep_chickensalad_onion" name="Нарезать лук"  />
 			<text id="preparestep_chickensalad_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_chickensoup_bacon" name="Нарезать бекон"  />
 			<text id="preparestep_chickensoup_chicken" name="Разделать курицу"  />
-			<text id="preparestep_chickensoup_onion" name="Порезать лук"  />
+			<text id="preparestep_chickensoup_onion" name="Нарезать лук"  />
 			<text id="preparestep_chickensoup_pasta" name="Отвесить макароны"  />
 			<text id="preparestep_chiliconcarne_bacon" name="Нарезать бекон"  />
 			<text id="preparestep_chiliconcarne_beans" name="Промыть фасоль"  />
 			<text id="preparestep_chiliconcarne_mincemeat" name="Приправить фарш"  />
-			<text id="preparestep_chiliconcarne_onion" name="Порезать лук"  />
+			<text id="preparestep_chiliconcarne_onion" name="Нарезать лук"  />
 			<text id="preparestep_chiliconcarne_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_chocmousse_chocolate" name="Растопить шоколад"  />
 			<text id="preparestep_chocmousse_cream" name="Взбить сливки"  />
-			<text id="preparestep_chocmousse_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_chocmousse_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_chocolatecake_chocolate" name="Растопить шоколад"  />
 			<text id="preparestep_chocolatecake_cream" name="Взбить сливки"  />
-			<text id="preparestep_chocolatecake_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_chocolatecake_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_chocolatecake_flour" name="Просеять муку"  />
 			<text id="preparestep_chocolatecheesecake_chocolate" name="Натереть шоколад"  />
 			<text id="preparestep_chocolatecheesecake_cookies" name="Покрошить печенье"  />
@@ -1027,11 +1022,11 @@
 			<text id="preparestep_curry_ballpepper" name="Нарезать паприку"  />
 			<text id="preparestep_curry_coconut" name="Расколоть кокос"  />
 			<text id="preparestep_curry_curryspice" name="Отмерить карри"  />
-			<text id="preparestep_curry_meat" name="Порезать мясо"  />
+			<text id="preparestep_curry_meat" name="Нарезать мясо"  />
 			<text id="preparestep_curry_peas" name="Приготовить горох"  />
 			<text id="preparestep_duckalorange_butter" name="Растопить масло"  />
 			<text id="preparestep_duckalorange_duck" name="Подготовить утку"  />
-			<text id="preparestep_duckalorange_onion" name="Порезать лук"  />
+			<text id="preparestep_duckalorange_onion" name="Нарезать лук"  />
 			<text id="preparestep_duckalorange_orange" name="Почистить апельсины"  />
 			<text id="preparestep_easterdish_chocolate" name="Покрошить шоколад"  />
 			<text id="preparestep_easterdish_eggs" name="Разбить яйца"  />
@@ -1045,27 +1040,27 @@
 			<text id="preparestep_fishandchips_peas" name="Приготовить горох"  />
 			<text id="preparestep_fishandchips_potato" name="Почистить картошку"  />
 			<text id="preparestep_friedpotatoes_bacon" name="Обжарить бекон"  />
-			<text id="preparestep_friedpotatoes_onion" name="Порезать лук"  />
+			<text id="preparestep_friedpotatoes_onion" name="Нарезать лук"  />
 			<text id="preparestep_friedpotatoes_potato" name="Почистить картошку"  />
 			<text id="preparestep_fruitpudding_bakingmix" name="Смешивается"  />
-			<text id="preparestep_fruitpudding_spicemix" name="Добавляются пряности"  />
+			<text id="preparestep_fruitpudding_spicemix" name="Добавляются специи"  />
 			<text id="preparestep_fruitsalad_apple" name="Очистить яблоки"  />
 			<text id="preparestep_fruitsalad_banana" name="Очистить бананы"  />
 			<text id="preparestep_fruitsalad_cherries" name="Вынуть косточки"  />
 			<text id="preparestep_fruitsalad_orange" name="Почистить апельсины"  />
 			<text id="preparestep_greensalad_lettuce" name="Помыть салат"  />
-			<text id="preparestep_greensalad_onion" name="Порезать лук"  />
+			<text id="preparestep_greensalad_onion" name="Нарезать лук"  />
 			<text id="preparestep_greensalad_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_gumbo_curryspice" name="Поджарить карри"  />
 			<text id="preparestep_gumbo_fish" name="Нарезать рыбу"  />
-			<text id="preparestep_gumbo_onion" name="Порезать лук"  />
+			<text id="preparestep_gumbo_onion" name="Нарезать лук"  />
 			<text id="preparestep_gumbo_rice" name="Приготовить рис"  />
 			<text id="preparestep_hamburger_flour" name="Просеять муку"  />
 			<text id="preparestep_hamburger_mincemeat" name="Приправить фарш"  />
 			<text id="preparestep_hamburger_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_hotcherrywaffles_cherries" name="Вынуть косточки"  />
 			<text id="preparestep_hotcherrywaffles_cream" name="Взбить сливки"  />
-			<text id="preparestep_hotcherrywaffles_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_hotcherrywaffles_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_hotcherrywaffles_flour" name="Просеять муку"  />
 			<text id="preparestep_hotcherrywaffles_milk" name="Подогреть молоко"  />
 			<text id="preparestep_jamspongepudding_flour" name="Просеять муку"  />
@@ -1079,9 +1074,9 @@
 			<text id="preparestep_macncheese_cheese" name="Натереть сыр"  />
 			<text id="preparestep_macncheese_cream" name="Отмерить сливки"  />
 			<text id="preparestep_macncheese_pasta" name="Сварить макароны"  />
-			<text id="preparestep_maplepancakes_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_maplepancakes_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_maplepancakes_flour" name="Просеять муку"  />
-			<text id="preparestep_maplepancakes_maple" name="Пригубить кленовый сироп"  />
+			<text id="preparestep_maplepancakes_maple" name="Попробовть кленовый сироп"  />
 			<text id="preparestep_maplepancakes_milk" name="Отмерить молоко"  />
 			<text id="preparestep_marblecake_butter" name="Растопить масло"  />
 			<text id="preparestep_marblecake_chocolate" name="Растопить шоколад"  />
@@ -1100,24 +1095,24 @@
 			<text id="preparestep_mixedsalad_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_nasigoreng_chicken" name="Разделать курицу"  />
 			<text id="preparestep_nasigoreng_eggs" name="Сварить яйца"  />
-			<text id="preparestep_nasigoreng_onion" name="Порезать лук"  />
+			<text id="preparestep_nasigoreng_onion" name="Нарезать лук"  />
 			<text id="preparestep_nasigoreng_pinapple" name="Нарезать ананас"  />
 			<text id="preparestep_nasigoreng_rice" name="Приготовить рис"  />
 			<text id="preparestep_newyorkcheesecake_cookies" name="Покрошить печенье"  />
 			<text id="preparestep_newyorkcheesecake_cream" name="Взбить сливки"  />
 			<text id="preparestep_newyorkcheesecake_quark" name="Размешать творог"  />
 			<text id="preparestep_newyorkcheesecake_sugar" name="Отмерить сахар"  />
-			<text id="preparestep_noodlesalad_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_noodlesalad_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_noodlesalad_oil" name="Взбить масло"  />
 			<text id="preparestep_noodlesalad_pasta" name="Сварить макароны"  />
 			<text id="preparestep_noodlesalad_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_omelette_eggs" name="Разбить яйца"  />
 			<text id="preparestep_onionsoup_cheese" name="Натереть сыр"  />
 			<text id="preparestep_onionsoup_garlic" name="Выдавить чеснок"  />
-			<text id="preparestep_onionsoup_onion" name="Порезать лук"  />
+			<text id="preparestep_onionsoup_onion" name="Нарезать лук"  />
 			<text id="preparestep_peasoup_bacon" name="Обжарить бекон"  />
 			<text id="preparestep_peasoup_garlic" name="Выдавить чеснок"  />
-			<text id="preparestep_peasoup_onion" name="Порезать лук"  />
+			<text id="preparestep_peasoup_onion" name="Нарезать лук"  />
 			<text id="preparestep_peasoup_peas" name="Почистить горох"  />
 			<text id="preparestep_pizzahawaii_bacon" name="Нарезать бекон"  />
 			<text id="preparestep_pizzahawaii_cheese" name="Натереть сыр"  />
@@ -1134,8 +1129,8 @@
 			<text id="preparestep_pizza_tomato" name="Размолоть помидоры"  />
 			<text id="preparestep_porkroastwithcrackling_carrots" name="Почистить морковку"  />
 			<text id="preparestep_porkroastwithcrackling_garlic" name="Выдавить чеснок"  />
-			<text id="preparestep_porkroastwithcrackling_meat" name="Порезать мясо"  />
-			<text id="preparestep_porkroastwithcrackling_onion" name="Порезать лук"  />
+			<text id="preparestep_porkroastwithcrackling_meat" name="Нарезать мясо"  />
+			<text id="preparestep_porkroastwithcrackling_onion" name="Нарезать лук"  />
 			<text id="preparestep_potatosalad_cucumber" name="Нарезать огурец"  />
 			<text id="preparestep_potatosalad_oil" name="Взбить масло"  />
 			<text id="preparestep_potatosalad_potato" name="Почистить картошку"  />
@@ -1149,56 +1144,56 @@
 			<text id="preparestep_ricepudding_rice" name="Отвесить рис"  />
 			<text id="preparestep_roastchicken_butter" name="Растопить масло"  />
 			<text id="preparestep_roastchicken_chicken" name="Подготовить курицу"  />
-			<text id="preparestep_roastchicken_onion" name="Порезать лук"  />
+			<text id="preparestep_roastchicken_onion" name="Нарезать лук"  />
 			<text id="preparestep_sandwich_bacon" name="Нарезать бекон"  />
 			<text id="preparestep_sandwich_butter" name="Отвесить масла"  />
 			<text id="preparestep_sandwich_cheese" name="Нарезать сыр"  />
 			<text id="preparestep_sandwich_flour" name="Просеять муку"  />
 			<text id="preparestep_sandwich_tomato" name="Нарезать помидоры"  />
-			<text id="preparestep_scouse_beetroot" name="Порезать свёклу"  />
+			<text id="preparestep_scouse_beetroot" name="Нарезать свёклу"  />
 			<text id="preparestep_scouse_cucumber" name="Замариновать огурцы"  />
 			<text id="preparestep_scouse_eggs" name="Поджарить яйца"  />
-			<text id="preparestep_scouse_meat" name="Порезать мясо"  />
+			<text id="preparestep_scouse_meat" name="Нарезать мясо"  />
 			<text id="preparestep_spagetti_mincemeat" name="Приправить фарш"  />
 			<text id="preparestep_spagetti_pasta" name="Сварить макароны"  />
 			<text id="preparestep_spagetti_tomato" name="Нарезать помидоры"  />
-			<text id="preparestep_spareribs_meat" name="Порезать мясо"  />
+			<text id="preparestep_spareribs_meat" name="Нарезать мясо"  />
 			<text id="preparestep_spareribs_oil" name="Отмерить масло"  />
-			<text id="preparestep_spareribs_onion" name="Порезать лук"  />
+			<text id="preparestep_spareribs_onion" name="Нарезать лук"  />
 			<text id="preparestep_spareribs_tomato" name="Размолоть помидоры"  />
 			<text id="preparestep_steakkidneypie_flour" name="Просеять муку"  />
 			<text id="preparestep_steakkidneypie_kidney" name="Разделать почки"  />
-			<text id="preparestep_steakkidneypie_meat" name="Порезать мясо"  />
-			<text id="preparestep_steakkidneypie_onion" name="Порезать лук"  />
+			<text id="preparestep_steakkidneypie_meat" name="Нарезать мясо"  />
+			<text id="preparestep_steakkidneypie_onion" name="Нарезать лук"  />
 			<text id="preparestep_steak_butter" name="Добавить масла"  />
 			<text id="preparestep_steak_lettuce" name="Помыть салат"  />
-			<text id="preparestep_steak_meat" name="Порезать мясо"  />
+			<text id="preparestep_steak_meat" name="Нарезать мясо"  />
 			<text id="preparestep_steak_potato" name="Почистить картошку"  />
 			<text id="preparestep_steak_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_stewedrhubarb_rhubarb" name="Нарезать ревень"  />
 			<text id="preparestep_stewedrhubarb_sugar" name="Сварить карамель"  />
-			<text id="preparestep_stew_meat" name="Порезать мясо"  />
+			<text id="preparestep_stew_meat" name="Нарезать мясо"  />
 			<text id="preparestep_stew_oil" name="Раскалить масло"  />
-			<text id="preparestep_stew_onion" name="Порезать лук"  />
+			<text id="preparestep_stew_onion" name="Нарезать лук"  />
 			<text id="preparestep_strawberrycake_cream" name="Взбить сливки"  />
 			<text id="preparestep_strawberrycake_flour" name="Просеять муку"  />
 			<text id="preparestep_strawberrycake_strawberry" name="Подготовить клубнику"  />
 			<text id="preparestep_strawberrymousse_cream" name="Взбить сливки"  />
-			<text id="preparestep_strawberrymousse_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_strawberrymousse_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_strawberrymousse_strawberry" name="Помыть клубнику"  />
 			<text id="preparestep_strawberrymousse_sugar" name="Отмерить сахар"  />
 			<text id="preparestep_stuffedpeppers_ballpepper" name="Выскоблить перчины"  />
 			<text id="preparestep_stuffedpeppers_eggs" name="Взбить яйца"  />
 			<text id="preparestep_stuffedpeppers_rice" name="Приготовить рис"  />
 			<text id="preparestep_sundayfeast_carrots" name="Почистить морковку"  />
-			<text id="preparestep_sundayfeast_meat" name="Порезать мясо"  />
+			<text id="preparestep_sundayfeast_meat" name="Нарезать мясо"  />
 			<text id="preparestep_sundayfeast_peas" name="Приготовить горох"  />
 			<text id="preparestep_sundayfeast_potato" name="Почистить картошку"  />
 			<text id="preparestep_sushi_cucumber" name="Нарезать огурец"  />
-			<text id="preparestep_sushi_fish" name="Порезать рыбу"  />
+			<text id="preparestep_sushi_fish" name="Нарезать рыбу"  />
 			<text id="preparestep_sushi_rice" name="Приготовить рис"  />
 			<text id="preparestep_toadinhole_flour" name="Просеять муку"  />
-			<text id="preparestep_toadinhole_onion" name="Порезать лук"  />
+			<text id="preparestep_toadinhole_onion" name="Нарезать лук"  />
 			<text id="preparestep_toadinhole_sausages" name="Отрезать сосисок"  />
 			<text id="preparestep_toast_cheese" name="Натереть сыр"  />
 			<text id="preparestep_toast_flour" name="Просеять муку"  />
@@ -1208,7 +1203,7 @@
 			<text id="preparestep_tofuburger_tofu" name="Натереть тофу"  />
 			<text id="preparestep_tofuburger_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_tomatosoup_cream" name="Взбить сливки"  />
-			<text id="preparestep_tomatosoup_onion" name="Порезать лук"  />
+			<text id="preparestep_tomatosoup_onion" name="Нарезать лук"  />
 			<text id="preparestep_tomatosoup_tomato" name="Почистить помидоры"  />
 			<text id="preparestep_trifle_cookies" name="Отвесить печенья"  />
 			<text id="preparestep_trifle_cream" name="Взбить сливки"  />
@@ -1218,7 +1213,7 @@
 			<text id="preparestep_veganstirfry_peas" name="Приготовить горох"  />
 			<text id="preparestep_veganstirfry_rice" name="Отвесить рис"  />
 			<text id="preparestep_veganstirfry_tomato" name="Нарезать помидоры"  />
-			<text id="preparestep_vegetablesoup_onion" name="Порезать лук"  />
+			<text id="preparestep_vegetablesoup_onion" name="Нарезать лук"  />
 			<text id="preparestep_vegetablesoup_potato" name="Почистить картошку"  />
 			<text id="preparestep_vegetablesoup_tomato" name="Нарезать помидоры"  />
 			<text id="preparestep_veggiecurry_ballpepper" name="Нарезать паприку"  />
@@ -1236,38 +1231,38 @@
 			<text id="preparestep_whitechoccheesecake_quark" name="Размять творог"  />
 			<text id="preparestep_whitechoccheesecake_whitechocolat" name="Отмерить шоколад"  />
 			<text id="preparestep_whitechocmousse_cream" name="Взбить сливки"  />
-			<text id="preparestep_whitechocmousse_eggs" name="Сепарировать яйца"  />
+			<text id="preparestep_whitechocmousse_eggs" name="Отделить белки от желтков"  />
 			<text id="preparestep_whitechocmousse_whitechocolat" name="Растопить шоколад"  />
 		</preparestep>
 		<preparestep_fancy>
 			<text id="preparestep_bananasplit_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_blackforestcherrycake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_cheeseburger_chili" name="Нарезать перчик"  />
-			<text id="preparestep_cheesedish_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_cheesedish_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_cheesefondue_chili" name="Нарезать перчик"  />
 			<text id="preparestep_cherriecake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_cherrycompote_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_chickenburger_chili" name="Настрогать перчик"  />
 			<text id="preparestep_chickensalad_chili" name="Нарезать перчик"  />
-			<text id="preparestep_chickensoup_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_chickensoup_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_chiliconcarne_chili" name="Настрогать перчик"  />
 			<text id="preparestep_chocmousse_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_chocolatecake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_chocolatecheesecake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_chocolatefondue_cinnamon" name="Потолочь корицу"  />
-			<text id="preparestep_christmasturkey_rosemary" name="Порезать розмарин"  />
+			<text id="preparestep_christmasturkey_rosemary" name="Нарезать розмарин"  />
 			<text id="preparestep_cookieplate_cinnamon" name="Потолочь корицу"  />
-			<text id="preparestep_cornonthecob_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_curry_coriander" name="Порезать кориандр"  />
+			<text id="preparestep_cornonthecob_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_curry_coriander" name="Нарезать кориандр"  />
 			<text id="preparestep_duckalorange_cinnamon" name="Потолочь корицу"  />
 			<text id="preparestep_easterdish_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_englishbreakfast_chili" name="Нарезать перчик"  />
-			<text id="preparestep_fishandchips_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_friedpotatoes_rosemary" name="Порезать розмарин"  />
+			<text id="preparestep_fishandchips_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_friedpotatoes_rosemary" name="Нарезать розмарин"  />
 			<text id="preparestep_fruitpudding_cinnamon" name="Потолочь корицу"  />
 			<text id="preparestep_fruitsalad_vanilla" name="Выскоблить ваниль"  />
-			<text id="preparestep_gardensalad_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_greensalad_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_gardensalad_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_greensalad_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_gumbo_chili" name="Нарезать перчик"  />
 			<text id="preparestep_hamburger_chili" name="Нарезать перчик"  />
 			<text id="preparestep_hotcherrywaffles_vanilla" name="Выскоблить ваниль"  />
@@ -1278,42 +1273,42 @@
 			<text id="preparestep_marblecake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_mexicansalad_chili" name="Нарезать перчик"  />
 			<text id="preparestep_minestrone_basil" name="Нарвать базилик"  />
-			<text id="preparestep_mixedsalad_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_mixedsalad_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_nasigoreng_chili" name="Нарезать перчик"  />
 			<text id="preparestep_newyorkcheesecake_vanilla" name="Выскоблить ваниль"  />
-			<text id="preparestep_noodlesalad_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_noodlesalad_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_omelette_chili" name="Настрогать перчик"  />
 			<text id="preparestep_onionsoup_chili" name="Нарезать перчик"  />
-			<text id="preparestep_peasoup_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_peasoup_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_pizzahawaii_chili" name="Настрогать перчик"  />
 			<text id="preparestep_pizzatonno_horseradish" name="Натереть корень хрена"  />
 			<text id="preparestep_pizza_chili" name="Нарезать перчик"  />
-			<text id="preparestep_porkroastwithcrackling_rosemary" name="Порезать розмарин"  />
+			<text id="preparestep_porkroastwithcrackling_rosemary" name="Нарезать розмарин"  />
 			<text id="preparestep_potatosalad_parsley" name="Порезать петрушку"  />
 			<text id="preparestep_redberrycompote_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_ricepudding_cinnamon" name="Потолочь корицу"  />
-			<text id="preparestep_roastchicken_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_sandwich_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_scouse_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_roastchicken_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_sandwich_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_scouse_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_spagetti_basil" name="Нарвать базилик"  />
 			<text id="preparestep_spareribs_chili" name="Нарезать перчик"  />
-			<text id="preparestep_steakkidneypie_parsley" name="Порезать петрушку"  />
+			<text id="preparestep_steakkidneypie_parsley" name="Нарезать петрушку"  />
 			<text id="preparestep_steak_parsley" name="Порезать петрушку"  />
 			<text id="preparestep_stewedrhubarb_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_stew_chili" name="Нарезать перчик"  />
 			<text id="preparestep_strawberrycake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_strawberrymousse_vanilla" name="Выскоблить ваниль"  />
-			<text id="preparestep_stuffedpeppers_parsley" name="Порезать петрушку"  />
-			<text id="preparestep_sundayfeast_rosemary" name="Порезать розмарин"  />
+			<text id="preparestep_stuffedpeppers_parsley" name="Нарезать петрушку"  />
+			<text id="preparestep_sundayfeast_rosemary" name="Нарезать розмарин"  />
 			<text id="preparestep_sushi_horseradish" name="Натереть корень хрена"  />
-			<text id="preparestep_toadinhole_rosemary" name="Порезать розмарин"  />
+			<text id="preparestep_toadinhole_rosemary" name="Нарезать розмарин"  />
 			<text id="preparestep_toast_chili" name="Нарезать перчик"  />
 			<text id="preparestep_tofuburger_chili" name="Настрогать перчик"  />
 			<text id="preparestep_tomatosoup_basil" name="Нарвать базилик"  />
 			<text id="preparestep_trifle_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_veganstirfry_chili" name="Нарезать перчик"  />
 			<text id="preparestep_vegetablesoup_basil" name="Нарвать базилик"  />
-			<text id="preparestep_veggiecurry_coriander" name="Порезать кориандр"  />
+			<text id="preparestep_veggiecurry_coriander" name="Нарезать кориандр"  />
 			<text id="preparestep_veggielasagne_basil" name="Нарвать базилик"  />
 			<text id="preparestep_whitechoccheesecake_vanilla" name="Выскоблить ваниль"  />
 			<text id="preparestep_whitechocmousse_vanilla" name="Выскоблить ваниль"  />
@@ -1339,7 +1334,7 @@
 			<text id="recipe_cookieplate" name="Поднос с печеньем"  />
 			<text id="recipe_cornonthecob" name="Початок кукурузы"  />
 			<text id="recipe_curry" name="Карри"  />
-			<text id="recipe_duckalorange" name="Утка а ля Ораж"  />
+			<text id="recipe_duckalorange" name="Утка а-ля Ораж"  />
 			<text id="recipe_easterdish" name="Пасхальное лукошко"  />
 			<text id="recipe_englishbreakfast" name="Английский завтрак"  />
 			<text id="recipe_fishandchips" name="Рыба с картошкой-фри"  />
@@ -1349,7 +1344,7 @@
 			<text id="recipe_greensalad" name="Салат &quot;Дачный&quot;"  />
 			<text id="recipe_gumbo" name="Рагу со специями"  />
 			<text id="recipe_hamburger" name="Гамбургер"  />
-			<text id="recipe_hotcherrywaffles" name="Вафли с вишнями"  />
+			<text id="recipe_hotcherrywaffles" name="Вафли с вишней"  />
 			<text id="recipe_jamspongepudding" name="Бисквитный пудинг с джемом"  />
 			<text id="recipe_lasagne" name="Лазанья"  />
 			<text id="recipe_macncheese" name="Паста под сырным соусом"  />
@@ -1397,7 +1392,7 @@
 			<text id="recipe_whitechocmousse" name="Белый шоколадный мусс"  />
 		</recipe>
 		<recipes_fastfood>
-			<text id="recipe_smoothiemaker_greensmoothie" name="Зелёный бальзам"  />
+			<text id="recipe_smoothiemaker_greensmoothie" name="Зелёный смузи"  />
 			<text id="recipe_smoothiemaker_kiba" name="Вишнёвый закат"  />
 			<text id="recipe_smoothiemaker_pinacolada" name="Девичий поцелуй"  />
 			<text id="recipe_smoothiemaker_tomatojuice" name="Томатный сок"  />
@@ -1454,7 +1449,7 @@
 			<text id="tt_Basic_Achievement_Solditems" name="Продано предметов интерьера или оборудования"  />
 			<text id="tt_Basic_Achievement_Spentchips" name="Потрачено кафейнингов"  />
 			<text id="tt_Basic_Achievement_Spentgold" name="Потрачено золота"  />
-			<text id="tt_Basic_Achievement_Wheeloffortune" name="Всего выигрышей на Колесе Фортуны"  />
+			<text id="tt_Basic_Achievement_Wheeloffortune" name="Всего выигрышей в Колесе Фортуны"  />
 			<text id="tt_byAmount" name="{0} из {1}"  />
 			<text id="tt_byLevel" name="С уровня {0}"  />
 			<text id="tt_CafeActionPanel_btn_achievements" name="Достижения"  />
@@ -1475,7 +1470,7 @@
 			<text id="tt_CafeClearStoveDialog_btn_instantcook" name="&quot;Быстрая готовка&quot;"  />
 			<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Сегодня вы больше не можете использовать &quot;Быструю готовку&quot;."  />
 			<text id="tt_CafeClearStoveDialog_instantButton" name="&quot;Быстрая готовка&quot;"  />
-			<text id="tt_CafeCookBookDialog_0" name="Сладости"  />
+			<text id="tt_CafeCookBookDialog_0" name="Десерты"  />
 			<text id="tt_CafeCookBookDialog_1" name="Основные блюда"  />
 			<text id="tt_CafeCookBookDialog_2" name="Супы"  />
 			<text id="tt_CafeCookBookDialog_3" name="Салаты"  />
@@ -1518,7 +1513,7 @@
 			<text id="tt_CafeIngredientShopDialog_btn_sell" name="Продать"  />
 			<text id="tt_CafeIngredientShopDialog_btn_shop" name="Магазин"  />
 			<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Курьер"  />
-			<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Доступно только на Колесе Фортуны!"  />
+			<text id="tt_CafeIngredientShopDialog_btn_wheel" name="Доступно только в Колесе Фортуны!"  />
 			<text id="tt_CafeMarketplaceBoardDialog_btn_help" name="Помощь в работе"  />
 			<text id="tt_CafeMarketplaceBoardDialog_btn_refill" name="Пополнить разрешения на работу"  />
 			<text id="tt_CafeMarketplaceBoardDialog_btn_sign" name="Искать работу"  />
@@ -1579,7 +1574,6 @@
 Купите немного лука!"  />
 			<text id="tut_cafeopen_copy" name="Отлично! Первые посетители не заставят себя долго ждать.
 Теперь вы знакомы с основами ведения бизнеса и сможете самостоятельно добраться до вершин мастерства.
-
 Удачи!"  />
 			<text id="tut_cookmeal_copy" name="Итак, приступим!
 Покажите салату, на что вы способны!"  />
@@ -1750,12 +1744,9 @@
 			<login>
 				<text id="generic_login_banned" name="Ваша игровая запись заблокирована, пожалуйста, свяжитесь со службой поддержки!"  />
 				<text id="generic_login_banned_2" name="Ваша запись была отключена!
-
 Отключение до: {0}
-
 Если у вас есть вопросы по поводу отключения - свяжитесь со службой поддержки."  />
 				<text id="generic_login_banned_3" name="Ваша игровая запись была заблокирована навсегда.
-
 Если у вас есть вопросы по поводу этой блокировки - свяжитесь, пожалуйста, со службой поддержки."  />
 				<text id="generic_login_banned_permanent" name="навсегда"  />
 				<text id="generic_login_facebook" name="Войти через Facebook"  />
@@ -1887,7 +1878,7 @@
 Обратите внимание, что злоупотребление этой функцией может привести к блокированию игровой записи."  />
 				<text id="generic_report_player_reason_0" name="Оскорбление"  />
 				<text id="generic_report_player_reason_1" name="Сексуальное домогательство"  />
-				<text id="generic_report_player_reason_2" name="расистское высказывание"  />
+				<text id="generic_report_player_reason_2" name="Расистское высказывание"  />
 				<text id="generic_report_player_reason_3" name="Угроза или вымогательство"  />
 				<text id="generic_report_player_reason_title" name="Суть жалобы:"  />
 				<text id="generic_report_player_title" name="Пожаловаться на игрока?"  />
@@ -1901,4 +1892,3 @@
 			</worlds>
 		</generic_flash>
 	</cafe>
- 
